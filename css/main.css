@@ -72,7 +72,6 @@ header h1 span {
 }
 
 header nav {
-	list-style: none;
 	width: 40%;
 }
 header nav ul {
@@ -85,14 +84,12 @@ header nav ul li {
 	font-weight: 700;
 	font-size: 0.875em;
 	padding: 0 10px;
-	list-style: none;
 	padding: 20px 0 10px 0 ;
 	
 }
 header nav ul li a{
 	text-decoration: none;
 	color:#77a466;
-	list-style: none;
 }
 
 #space-below {
